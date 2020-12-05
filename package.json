@@ -1,0 +1,25 @@
+{
+  "name": "uzads",
+  "version": "1.0.0",
+  "description": "Online advertisement platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasurbekYuldashov/uzads.git"
+  },
+  "author": "Jasurbek Yuldashov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasurbekYuldashov/uzads/issues"
+  },
+  "homepage": "https://github.com/JasurbekYuldashov/uzads#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4"
+  }
+}
